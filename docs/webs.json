@@ -1,0 +1,11 @@
+{
+  "pennysPool": {
+    "name": "finviz",
+    "web": "https://finviz.com/screener.ashx?v=111&f=sh_avgvol_o750,sh_price_u10,sh_relvol_o1&ft=4"
+                },
+  "newsFinviz": "https://finviz.com/quote.ashx?t=",
+
+  "sources": {
+      "finviz": "https://finviz.com/news.ashx"
+    }
+  }
